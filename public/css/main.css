@@ -1,0 +1,39 @@
+html {
+    overflow: hidden;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul>li {
+    margin-right: 10px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 13px;
+    background-color: #120c0e;
+    color: #d9d8dc;
+    font-size: 1.25rem;
+}
+
+footer h4 {
+    margin-bottom: 0;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}

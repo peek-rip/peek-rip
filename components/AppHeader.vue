@@ -1,0 +1,9 @@
+<template>
+    <div>
+        <header>
+            <h1>
+                peek.rip
+            </h1>
+        </header>
+    </div>
+</template>
