@@ -12,8 +12,5 @@
                 <img src="https://camo.githubusercontent.com/6ddea140b463f77ca151e8d60618c4398a6193ecb284512838c6cb8f556d8f5a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e7578742e6a7326636f6c6f723d323232323232266c6f676f3d4e7578742e6a73266c6f676f436f6c6f723d303044433832266c6162656c3d" alt="Nuxt.js" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Nuxt.js&amp;color=222222&amp;logo=Nuxt.js&amp;logoColor=00DC82&amp;label=" style="max-width: 15%;">
             </div>
         </div>
-        <p>
-            hi, my name is <b>peek</b> and i like to make things
-        </p>
     </div>
 </template>
